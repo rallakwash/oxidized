@@ -163,6 +163,7 @@
   * [Voltaire](/lib/oxidized/model/voltaire.rb)
 * Mikrotik
   * [RouterOS](/lib/oxidized/model/routeros.rb)
+  * [SwOS] (/lib/oxidized/model/swos.rb)
 * Motorola
   * [RFS](/lib/oxidized/model/mtrlrfs.rb)
 * MRV
